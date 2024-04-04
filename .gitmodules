@@ -235,3 +235,6 @@
 [submodule "Mash"]
 	path = Mash
 	url = https://github.com/10nesse/Mash
+[submodule "Mashirov_server"]
+	path = Mashirov_server
+	url = https://github.com/10nesse/Mashirov_server
